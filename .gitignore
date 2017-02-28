@@ -1,3 +1,4 @@
+*.docset
 *.gem
 *.rbc
 /.config
